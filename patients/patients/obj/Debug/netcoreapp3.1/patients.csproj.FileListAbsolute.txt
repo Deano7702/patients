@@ -1,0 +1,15 @@
+E:\Vivek - Sample Work Application\patients\patients\bin\Debug\netcoreapp3.1\patients.exe
+E:\Vivek - Sample Work Application\patients\patients\bin\Debug\netcoreapp3.1\patients.deps.json
+E:\Vivek - Sample Work Application\patients\patients\bin\Debug\netcoreapp3.1\patients.runtimeconfig.json
+E:\Vivek - Sample Work Application\patients\patients\bin\Debug\netcoreapp3.1\patients.runtimeconfig.dev.json
+E:\Vivek - Sample Work Application\patients\patients\bin\Debug\netcoreapp3.1\patients.dll
+E:\Vivek - Sample Work Application\patients\patients\bin\Debug\netcoreapp3.1\patients.pdb
+E:\Vivek - Sample Work Application\patients\patients\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Vivek - Sample Work Application\patients\patients\obj\Debug\netcoreapp3.1\patients.csproj.AssemblyReference.cache
+E:\Vivek - Sample Work Application\patients\patients\obj\Debug\netcoreapp3.1\patients.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vivek - Sample Work Application\patients\patients\obj\Debug\netcoreapp3.1\patients.AssemblyInfoInputs.cache
+E:\Vivek - Sample Work Application\patients\patients\obj\Debug\netcoreapp3.1\patients.AssemblyInfo.cs
+E:\Vivek - Sample Work Application\patients\patients\obj\Debug\netcoreapp3.1\patients.csproj.CoreCompileInputs.cache
+E:\Vivek - Sample Work Application\patients\patients\obj\Debug\netcoreapp3.1\patients.dll
+E:\Vivek - Sample Work Application\patients\patients\obj\Debug\netcoreapp3.1\patients.pdb
+E:\Vivek - Sample Work Application\patients\patients\obj\Debug\netcoreapp3.1\patients.genruntimeconfig.cache

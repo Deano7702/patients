@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kt3bM2/fEmMVxpJUvousHFUcZEXqSnmjRXifb2UdbUKvTg4iZqsPrFpJoko+QSQKvdaTajERhzn8IwHtKMR8rA==",
+  "success": true,
+  "projectFilePath": "E:\\Vivek - Sample Work Application\\patients\\patients\\patients.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deanm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
