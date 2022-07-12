@@ -1,2 +1,2 @@
-# Contacts
-Solution which reads a JSON file and creates objects to store the data, which is displayed in the console
+# Patients
+This solution reads a JSON file and creates patient objects using the patient class to store relevant information which is displayed to the console
